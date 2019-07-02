@@ -12,7 +12,7 @@ Provisioning a bitcoin development environment by grabbing all the dependencies,
 
 #### Requirements for both local and remote VMs
 
-- Make sure that [vagrant](http://www.vagrantup.com/downloads) is installed.
+- Make sure that [vagrant](https://www.vagrantup.com/downloads.html) is installed.
 - git clone this repository and git clone https://github.com/bitcoin/bitcoin (or a fork) into the same directory. The bitcoin directory will sync into the VM.
 
 #### Running locally using Virtualbox
